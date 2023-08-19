@@ -631,8 +631,6 @@ int main(){
     }
 
     cout << "\t\t\t     MOHAMMADREZA GHOLINIA\n";
-    cout << "\t\t\t\tZOHREH MAHDAVI\n";
-    cout << "\t\t\t\tMARYAM MOUSAVI\n";
 
     return 0;
 }
